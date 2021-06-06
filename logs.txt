@@ -1,0 +1,72 @@
+Date: Mon Nov 12 2018
+Ip: ::1
+Method: DELETE
+URL: 
+Err:TypeError: this.pdatePostByImageIdAndCallbackIt is not a function
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: GET
+URL: 
+Err:UnauthorizedError: No authorization token was found
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: GET
+URL: 
+Err:UnauthorizedError: jwt expired
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: GET
+URL: 
+Err:UnauthorizedError: jwt expired
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: GET
+URL: 
+Err:UnauthorizedError: jwt expired
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: GET
+URL: 
+Err:UnauthorizedError: jwt expired
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: GET
+URL: 
+Err:UnauthorizedError: jwt expired
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: PUT
+URL: 
+Err:UnauthorizedError: Format is Authorization: Bearer [token]
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: PUT
+URL: 
+Err:UnauthorizedError: jwt expired
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: PUT
+URL: 
+Err:ReferenceError: id_token is not defined
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: DELETE
+URL: 
+Err:ReferenceError: plant is not defined
+--------------------------------------------------------------------------------
+Date: Fri Nov 16 2018
+Ip: ::1
+Method: DELETE
+URL: 
+Err:ReferenceError: plant is not defined
+--------------------------------------------------------------------------------
